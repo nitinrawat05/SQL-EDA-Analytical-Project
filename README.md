@@ -1,6 +1,7 @@
 # SQL-EDA-Analytical Project
 
 **Author:** Nitin
+
 **Date:** 4/15/2025
 
 ## Introduction
