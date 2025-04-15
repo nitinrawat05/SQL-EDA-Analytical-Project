@@ -1,7 +1,7 @@
 # SQL-EDA-Analytical Project
 
-**Author:** Your Name  
-**Date:** \today
+**Author:** Nitin
+**Date:** 4/15/2025
 
 ## Introduction
 This project focuses on performing SQL-based Exploratory Data Analysis (EDA) for various business intelligence tasks. The goal is to extract, analyze, and visualize key metrics from a dataset, utilizing various SQL techniques for data segmentation, performance analysis, and reporting.
